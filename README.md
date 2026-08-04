@@ -2,7 +2,7 @@
 
 Portfólio pessoal de Hugo Melo Carvalho, desenvolvedor full stack em formação. Site estático de página única que reúne projetos, stack, experiência e canais de contato.
 
-🔗 **Acesse:** [LINK-VERCEL-AQUI]
+🔗 **Acesse:** https://hugo-melo-portfolio.vercel.app/
 
 <!-- Preview opcional: adicione um screenshot chamado preview.png na raiz e descomente a linha abaixo -->
 <!-- ![Preview do portfólio](./preview.png) -->

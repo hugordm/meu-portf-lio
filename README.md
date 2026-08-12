@@ -9,7 +9,7 @@ Portfólio pessoal de Hugo Melo Carvalho, desenvolvedor full stack em formação
 
 ## 📌 Sobre
 
-Sou estudante de Ciência da Computação com foco em desenvolvimento web full stack. Este site apresenta meu projeto em destaque (**Contrataí**, SaaS de RH com IA), outros projetos em produção, minha stack, experiência profissional e um FAQ voltado tanto a recrutadores quanto a clientes de projetos sob encomenda. O contato principal é via WhatsApp, com CV disponível para download.
+Sou estudante de Ciência da Computação com foco em desenvolvimento web full stack. Este site apresenta meus projetos em destaque (**Contrataí**, SaaS de RH com IA, e **Kanglu**, blog com geração de artigos por IA), outros projetos em produção, minha stack, experiência profissional e um FAQ voltado tanto a recrutadores quanto a clientes de projetos sob encomenda. O contato principal é via WhatsApp, com CV disponível para download.
 
 ## 🛠 Stack técnica do site
 
@@ -55,7 +55,7 @@ Hospedado na **Vercel** como site estático. Não há configuração de build: a
 | `#sobre` | Quem sou, formação e forma de trabalhar |
 | `#diferenciais` | "Como eu trabalho" — pontos fortes em cards |
 | `#stack` | Tecnologias que uso no dia a dia |
-| `#projeto` | Projeto em destaque: Contrataí |
+| `#projeto` | Projetos em destaque: Contrataí e Kanglu |
 | `#outros-projetos` | Outros projetos em produção (agendamento, agenda, bolão) |
 | `#experiencia` | Linha do tempo profissional e cursos |
 | `#faq` | Perguntas frequentes (vaga CLT/estágio e freelance) |

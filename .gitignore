@@ -9,3 +9,7 @@ Thumbs.db
 .vscode/
 .idea/
 *.swp
+
+# Variáveis de ambiente
+.env
+.env.*

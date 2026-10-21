@@ -56,7 +56,7 @@ Hospedado na **Vercel** como site estático. Não há configuração de build: a
 | `#diferenciais` | "Como eu trabalho" — pontos fortes em cards |
 | `#stack` | Tecnologias que uso no dia a dia |
 | `#projeto` | Projetos em destaque: Contrataí e Kanglu |
-| `#outros-projetos` | Outros projetos em produção (agendamento, agenda, bolão) |
+| `#outros-projetos` | Outros projetos (crowdfunding com IA, agendamento, central de chamados, bolão) |
 | `#experiencia` | Linha do tempo profissional e cursos |
 | `#faq` | Perguntas frequentes (vaga CLT/estágio e freelance) |
 | `#contato` | Canais de contato e download do CV |
